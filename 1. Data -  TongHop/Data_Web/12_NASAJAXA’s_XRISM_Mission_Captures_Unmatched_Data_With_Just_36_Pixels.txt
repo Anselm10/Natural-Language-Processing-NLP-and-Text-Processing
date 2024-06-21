@@ -1,0 +1,22 @@
+3 MIN READ
+NASA/JAXA’s XRISM Mission Captures Unmatched Data With Just 36 Pixels
+At a time when phone cameras are capable of taking snapshots with millions of pixels, an instrument on the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) satellite captures revolutionary science with just 36 of them.
+“That may sound impossible, but it’s actually true,” said Richard Kelley, the U.S. principal investigator for XRISM at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “The Resolve instrument gives us a deeper look at the makeup and motion of X-ray-emitting objects using technology invented and refined at Goddard over the past several decades.”
+XRISM (pronounced “crism”) is led by JAXA (Japan Aerospace Exploration Agency) in collaboration with NASA, along with contributions from ESA (European Space Agency). It launched into orbit last September and has been scrutinizing the cosmos ever since. The mission detects “soft” X-rays, which have energies up to 5,000 times greater than visible light. It will probe the universe’s hottest regions, largest structures, and objects with the strongest gravity, like supermassive black holes in the cores of distant galaxies.
+XRISM accomplishes this with an instrument named Resolve.
+The square structure at the center of this image shows the 6-by-6-pixel microcalorimeter array at the heart of Resolve, an instrument on XRISM (X-ray Imaging and Spectroscopy Mission). The array measures 0.2 inches (5 millimeters) on a side. The device produces a spectrum of X-ray sources between 400 and 12,000 electron volts — up to 5,000 times the energy of visible light — with unprecedented detail.
+NASA/XRISM/Caroline Kilbourne
+“Resolve is more than a camera. Its detector takes the temperature of each X-ray that strikes it,” said Brian Williams, NASA’s XRISM project scientist at Goddard. “We call Resolve a microcalorimeter spectrometer because each of its 36 pixels is measuring tiny amounts of heat delivered by each incoming X-ray, allowing us to see the chemical fingerprints of elements making up the sources in unprecedented detail.”
+In order to accomplish this, the entire detector must be chilled to 459.58 degrees below zero Fahrenheit (minus 273.1 degrees Celsius), just a whisker above absolute zero.
+The instrument is so precise it can detect the motions of elements within a target, effectively providing a 3D view. Gas moving toward us glows at slightly higher energies than normal, while gas moving away from us emits slightly lower energies. This will, for example, allow scientists to better understand the flow of hot gas within clusters of galaxies and to track the movement of different elements in the debris of supernova explosions.
+Resolve is taking astronomers into a new era of cosmic exploration — and with only three-dozen pixels.
+XRISM is a collaborative mission between JAXA and NASA, with contributions from over 70 institutions in Japan, the U.S., Canada, and Europe. NASA Goddard developed the Resolve detector and many of the instrument subsystems, together with the two X-ray Mirror Assemblies. Goddard is also responsible for the Science Data Center, which developed analysis software and the data processing pipeline, as well as support for the  XRISM General Observer Program.
+Download high-resolution video and images from NASA's Scientific Visualization Studio
+By Francis Reddy
+NASA’s Goddard Space Flight Center, Greenbelt, Md.
+
+Media Contact:
+Claire Andreoli
+301-286-1940
+claire.andreoli@nasa.gov
+NASA’s Goddard Space Flight Center, Greenbelt, Md.

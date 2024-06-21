@@ -1,0 +1,296 @@
+DS: White dwarfs and neutron stars  have exhausted  their fuel so they have shrunk to become some 
+of the densest objects in the universe.  Most interesting to Stephen Hawking is what happens when 
+the very biggest stars collapse in on themselves.   
+ 
+What would be the fate of those countless stars, with greater mass than a white dwarf or 
+neutron star, when they had exhausted nuclear fuel?  The problem w as investigated by 
+Robert Oppen heimer, of later atom bomb fame. In a couple of papers in 1939, with George 
+Volkoff and Hartland Snyder, he showed that such a star could not b e supported by 
+pressure. And that if one neglected pressure, a uniform spherically systematic symmetric 
+star would contract to a single point of infinite density. Such a point is called a singularity.  
+ 
+DS: A singularity is what you end up with when a giant star is compressed  to an unimaginably small 
+point. This  concept has been a defining theme in Stephen Hawking’s career. It refers  to the end of 
+a star but also something more fundamental:  that a singularity was the starting -point for the 
+formation of the entire universe. It was  Hawking’s mathematical work on  this that earned him 
+global recognition.  
+ 
+All our theories of space are formulat ed on the assumption that space time is smooth and 
+nearly flat, so they break down at the singularity, where the curvature of space -time is 
+infinite. In fact, it marks the end of time itself. That is what Einstein found so objectionable.  
+ 
+DS: Einstein’s Theory of General Relativity says tha t obje cts distort the space time around them. 
+Picture a bowling -ball lying on a trampoline, changing the shape of the material and causing  smaller 
+objects to slide towar ds it. This  is how the effect of gravity  is explained . But if the curves in 
+spacetime  become deeper an d deeper, and eventually infinite, the usual rules of space and time no 
+longer apply.  
+ 
+Then the w ar intervened. Most sci entists, including Robert Oppen heimer, switched their 
+attention to nuclear physics, and the issue of gravitational collapse was largely forgotten.  
+Interest in the subject revived with the discovery of distant objects, called quasars.  
+ 
+DS: Quasars are the br ightest objects in the unive rse, and possibly the most distant detected so far. 
+The name is short for ‘quasi -stellar radio sources’ and they are believed to be discs of matter 
+swirling around black holes .    
+ 
+The first quasar,  3C27 3, was discovered in 1963. Many other quasars were so on discovered. 
+They were bright, despite being at great distances. Nuclear processes could not account for 
+their energy output, because they release only a percent fraction of their rest mass as pure 
+energy. The only alternative was gravitational energy, r eleased by gravitational collapse.  
+ 
+Gravitati onal collapses of stars were re -discovered. It was clear that a uniform spherical star 
+would contract to a point of infinite density, a singularity.   
+ 
+The Einstein equations can't be defined at a singularity. This means at this point of infinite 
+density, one can't predict the future. This implies something strange could happen whenever 
+a star collapsed. We wouldn't be affected by the breakdown of predict ion, if the singularities 
+are not naked,  that is, they are not shielded from the outside .  
+ DS: A ‘naked’ singularity is a theoretical scenario in which a star collapses but an event horizon does 
+not form around it  – so the singularity would be visible .  
+ 
+When John Wheeler introduced the term black hole in 1967, it replaced the earlier name, 
+frozen star. Wheeler's coinage emphasized that the remnants of collapsed stars  are of 
+interest in their own right, independently of how they were formed. The new name c aught 
+on quickly. It suggested something dark and mysterious, But the French,  being French, saw a 
+more risque  meaning. For yea rs, they resisted the name trou noi r, claiming it was obscene. 
+But that was a bit like trying to stand against  Le Week -end, and ot her Franglais . In the end, 
+they had to give in.  Who can resi st a name that is such a winner?  
+ 
+From the outside, you can't tell what is inside a black hole.  You can throw television sets, 
+diamond rings, or even your worst enemies into a black hole, and al l the black hole will 
+remember is the total mass, and the state of rotation. John Wheeler is known for  
+expressing this principle as “a black hole has no h air”. To the French, this just confirmed 
+their suspicions.   
+  
+A black hole has a boundary, called the event horizon. It is where gravity is just strong 
+enough to drag light back, and prevent it escaping. Because nothing can travel faster than 
+light, everything else will get dragged back also. Falling through the even t horizon is a bit like 
+going over Niagara Falls in a canoe. If you are above the falls, you can get away if you paddle 
+fast enough, but once you are over the edge, you are lost. There's no way back. As you get 
+nearer the falls, the current gets faster. Th is means it pulls harder on the front of the canoe 
+than the back.  There's a danger that the canoe will be pulled apart. It is the same with black 
+holes. If you fall towards a black hole feet first, gravity will pull harder on your feet than 
+your head, bec ause they are nearer the black hole.  
+ 
+The result is you will be stretched out longwise, and squashed in sideways. If the black hole 
+has a mass of a few times our sun  you would be torn  apart, and made into spaghetti  before 
+you reached the horizon. However,  if you fell into a much larger black hole, with a mass of a 
+million times the sun, you would reach the horizon without difficulty. So, if you want to 
+explore the inside of a black hole, make sure you choose a big one. There is a black hole 
+with a mass of about four million times that of the sun, at the centre of our Milky Way 
+galaxy.  
+ 
+DS: Scientists believe that there are  huge black hole s at the centre of virtually all galaxies – a 
+remarkable thought, given how recently these features were confirmed in the first place.   
+ 
+Although you wouldn't notice anything particular as you fell into a black hole, someone 
+watching you from a distance would never see you cross the event horizon.  Instead, you 
+would appear to slow down, and hover just outside.  Your image would get dimmer and 
+dimmer, and redder and redder, until you were effectively lost from sight. As far as the 
+outside world is concerned, you would be lost for ever.  
+ 
+There was a  dramatic advance in our understandin g of these mysterious phenomena  with a 
+mathematical discovery in 1970. This was that the surface area of the event horizon, the 
+boundary of a black hole, has the property that it always increases when additional matter 
+or radiation falls into the black hole. These properties suggest that there is a resemblance between the area of the event horizon of a black hole, and conventional Newtonian physics, 
+specifically the concept of entropy in thermodynamics. Entropy can be re garded as a 
+measure of the disorder of a system, or equivalently, as a lack of knowledge of its precise 
+state. The famous second law of thermodynamics says that entropy always increases with 
+time. This discovery was the first hint of this crucial connectio n.  
+ 
+DS: Entropy  means the tendency for anything that has order to become more disordered as time 
+passes – so, for example, bricks neatly stacked to form a wall (low entropy) will eventually end up in 
+an untid y heap  of dust  (high entropy). And this process is described by the second law of 
+thermodynamics .  
+ 
+Although there is clearly a similarity between entropy and the area of the event horizon, it 
+was not obvious to us how the area could be identified as the entropy of a bl ack hole itself. 
+What would be meant  by the entropy of a black hole?  The crucial suggestion was made in 
+1972 by Jacob Bekenstein, who was a graduate student at Princeton University, and then at 
+the Hebrew University of Jerusalem. It goes like this. When a black hole is created by 
+gravitational collapse, it rapidly settles down to a stationary state, which is characterized by 
+only three parameters: the mass, the angular momentum, and the electric charge. Apart 
+from these three properties, the black hole pres erves no other details of the object that 
+collapsed.  
+ 
+His theorem has implications for information, in the cosmologist's sense of information: the 
+idea that every particle and every force in the universe has an implicit answer to a yes -no 
+question.  
+ 
+DS: Information , in this context, means all the details of every particle and force associated wi th an 
+object. And  the more disordered something is  – the higher its entropy - the more information is 
+needed to describe it. As the physicist and broadcaster Jim A l-Khalili puts it, a well -shuffled pack of 
+cards has higher entropy and therefore needs far more explanation, or information, than an 
+unshuffled one.   
+ 
+The theorem implies that a large amount of information is lost in a gravitational collapse. 
+For example , the final black -hole state is independent of whether the body that collapsed 
+was composed of matter or antimatter, or whether it was spherical or highly irregular in 
+shape. In other words, a black hole of  a given mass, angular momentum  and electric charg e, 
+could have been formed by the collapse of any one of a large number of different 
+configurations of matter. So what ap pears to be the same black hole  could be formed by the 
+collapse of a large number of different types of star. Indeed, if quantum effects  are neglected, 
+the number of configurations would be infinite, since the black hole could have been formed 
+by the collapse of a cloud of an indefinitely large number of particles, of indefinitely low mass. 
+But could the number of co nfigurations really be infinite?  
+ 
+The uncertainty  principle of quantum mechanics  implies that only particles with a 
+wavelength smaller tha n that of the black hole itself  could form a black hole. That means the 
+wavelength would be limited: it could not be infinite.  
+ 
+DS: The uncertainty principle, conceived by the famous German physicist Werner Heisenberg, 
+describes how we can never locate or predict the precise position of the smallest particles . So, at what is called the quantum scale, there is a fuzziness in nature, ver y unlike the  more ordered 
+universe describ ed by Isaac Newton.  
+ 
+It therefore appears that the number of configurations that could form a black hole of  a 
+given mass, angular momentum  and electric charge, although very large, may also be finite. 
+Jacob Bekenst ein suggested that from this finite number, one could interpret the entropy of 
+a black hole. This would be a measure of the amount of informat ion that was irretrievably 
+lost during the collapse when a black hole was created.  
+ 
+The apparently fatal flaw in Bekenstein's suggestion  was that if a black hole has a finite 
+entropy that is proportional to the area of its event horizon, it also ought to have a finite 
+temperature, which would be proportional to its surface gravity. This would imply that a 
+black hole could be in equilibrium with thermal radiation, at some temperature other than 
+zero. Yet according to classical concepts, no such equilibrium is possible, since the black 
+hole would absorb any thermal radiation that fell on it, but by definition would not be able 
+to emit anything in re turn. It cannot emit anything. I t cannot emit heat.  
+ 
+DS: If information is lost, which is apparently what is happening in a black hole, there s hould be 
+some release of energy - but that flies in the face of the theory that nothing comes out of black 
+holes.  
+  
+This is a paradox. And it's one which I am going to return to in my next lecture, when I'll be 
+exploring how black holes challenge the most basic principle about the predictability of the 
+universe, and the certainty of history, and asking what would happen if you ever got sucked 
+into one. Thank you.  
+ 
+DS: So Stephen Hawking has taken us on a scientific journey from Einstein’s claim that stars could 
+not collapse to the acceptance of the reality o f black holes to a  collisio n of theories over h ow these 
+weird features exist and function .  
+ 
+The second lecture will bring us  up to date with the latest thinking on black holes, and will ask  us to 
+change the way we think of them.  
+ 
+bbc.co.uk/reithlectures  
+ 
+   
+ 
+ 
+ 
+Transcript of audience Q and A after the first lecture  
+SUE LAWLEY: Thank you. Thank you very much indeed, Stephen. Well now we asked 
+listeners what they’d like to ask you and their questions came flooding in, hundreds of them. 
+We’ve chosen a representative selection of topics and invited some of those listeners to 
+come and put their questions in person. You’ll appreciate, audience, that we had to give 
+Stephen the questions beforehand, so that he could programme his answers into his 
+computer. This is done letter by letter  through the movement of his facial muscles and 
+you’ll hear little tiny bleeps as the infrared detector picks up those movements. It’s not a 
+speedy process, round about a word a minute, but the answers are all in there now. So if 
+you’re ready, Professor, l et me begin by asking Andy Fabian, who’s an astronomer and 
+astrophysicist – he’s the Director of the Institute of Astronomy at Cambridge and therefore 
+a colleague of Stephen’s – Andy, your question please?  
+ANDY FABIAN: Stephen, m uch of the work by yoursel f and others on issues such as the 
+potential loss of information in black holes and on radiation from black holes is theoretical 
+and lacks observational support  so far . Do you see ways to change th at situation using the 
+many and varied observations now rou tinely being made of accreting black holes throughout 
+the cosmos?  
+SUE LAWLEY : Stephen ? 
+STEPHEN HAWKING : I assume you are referring to the area increase law for black hole 
+horizons. The best way of testing this is black hole collisions rather than accretio n. 
+SUE LAWLEY: Well you got pretty short shrift there, I have to say. (laughter) Perhaps you 
+should tell us what the difference is between accreting black holes and black hole collisions?  
+ANDY FABIAN: Well black hole collisions are when you have two black holes colliding with 
+each other and merging together. Accretion is just matter dribbling into the black hole 
+steadily and it produces enormous amounts of energy release, very luminous things in the 
+universe.  
+SUE LAWLEY: Do you foresee that there will be e vidential proof of what Stephen is talking 
+about? As you say, it’s all theoretical at the moment.  
+ANDY FABIAN: It would be fantastic to find observational proof of it, but I myself don’t see 
+how to do it.  
+SUE LAWLEY: Okay well let’s pursue this theme of wh at black holes get up to when we’re 
+looking at them, and indeed when we’re not, and turn to a group of young enthusiasts here 
+from the West Midlands. They’re pupils from Barr Beacon Secondary School in Walsall and 
+they’re aged around 12 or 13. Kate Harris,  you’re their teacher. How have you got them 
+interested in cosmology and everything else?  
+KATE HARRIS: Well I’m their form tutor, so I look after them every morning. I received an 
+email from one of the science teachers who’s with us, Dr Butterworth, about Stephen’s 
+lecture and told them about it. And they were so keen to know more because first ly they’ve 
+seen him in ‘The Big Bang Theory’… (laughter)   
+SUE LAWLEY: This is the television … the American sitcom?  KATE HARRIS: Yes. And also they are keen science enthusiasts. They just wanted to know 
+more.       
+SUE LAWLEY: Yeah, so endlessly interested . Well let’s have a question from one of them. 
+Aruniya Muraleedaran, you’re aged 12. What’s your question?  
+ARUNYA MU RALEE DARAN: What kind of things would happen if one black hole collided 
+with another one?  
+STEPHEN HAWKING : If two black holes collide and merge to form a single black hole, the 
+area of the event horizon around the resulting black hole is greater than the sum of the 
+areas of the event horizons around the original black holes.  
+SUE LAWLEY: Did you understand that, Aruniya? Did you get your head  round it? (laughter) 
+Well, as I understand it, it’s when two black holes collide, the total circumference is greater 
+than the sum of the two parts. The whole area increases. Got it?  
+ARUNYA  MURALEEDARAN : I’ve got it now. (laughter) What about you? Did you … Do 
+you want to say something?  
+STUDENT: Yeah, I did understand it.  
+SUE LAWLEY: You did?  
+STUDENT: A bit, a bit. (laughter)   
+APPLAUSE  
+SUE LAWLEY: Well maybe it was because I explained it to you. (laughter) Now to a rather 
+more personal question – and we r eceived many of them actually. This is from a 17 year old 
+Radio 4 listener. His name is Duncan McKinnon. You told us, Duncan, that Stephen had 
+been an inspiration to you. In what way?  
+DUNCAN McKINNON: Well watching the film with him, it was really inspirat ional how he 
+managed to carry on with his dreams and goals.  
+SUE LAWLEY: You mean the film ‘The Theory of Everything’ …  
+DUNCAN McKINNON: Yeah, yeah.      
+SUE LAWLEY: … which starred Eddie Redmayne …  
+DUNCAN McKINNON: Yeah.  
+SUE LAWLEY: … for which he won an O scar of course. Great film, wasn’t it? Okay, like to 
+put your question?  
+DUNCAN McKINNON: I would like to ask you what inspired you to keep on going despite 
+all the rough times in your life?  SUE LAWLEY: Stephen?  
+STEPHEN HAWKING : I think my work and a sens e of humour have k ept me going. When I 
+turned 21 my expectations were reduced to zero. You probably know this already because 
+there’s been a movie about it. In this situation, it was important that I came to appreciate 
+what I did have. Although I was unfor tunate to get motor neurone disease, I have been very 
+fortunate in almost everything else. I have been lucky to work in theoretical physics at a 
+fascinating time, and it’s one of the few areas in which my disabilit y was not a serious 
+handicap. It’s also im portant not to become angry, no matter how difficult life may seem, 
+because you can lose all hope if you can’t laugh at yourself and life in general.  
+SUE LAWLEY: We have here Lucy Hawking, Stephen’s daughter, just towards the front 
+there. Lucy, you have se en Stephen over the past four decades if you don’t mind my saying 
+that. (laughter)  
+LUCY HAWKING: That’s a little personal, Sue. (laughter)  
+SUE LAWLEY: I apologise, Lucy.  
+LUCY HAWKING: That’s okay. It’s radio, Sue.  
+STEPHEN HAWKING: (interjecting) I would b ring back Einstein. (laughter)  
+SUE LAWLEY: Interjection from my right. You’ve seen him, Lucy, weather some pretty 
+rough times. What do you put his resilience and this determination down to?  
+LUCY HAWKING: I think he’s enormously stubborn (laughter) and has a very enviable wish 
+to keep going and the ability to summon all his reserves, all his energy, all his mental focus 
+and press them all into that goal of keeping going. But not just to keep going for the 
+purposes of survival, but to transcend this by produc ing extraordinary work, writing books, 
+giving lectures, inspiring other people with neurodegenerative and other disabilities, and 
+being a family man, a friend and a colleague to so many … so many people and keeping up 
+with friends across the world. So I th ink there … there are lots and lots of elements there, 
+but I do think the stubbornness, the will to live and – like he says himself – the sense of 
+humour to laugh at it, at the end of the day is what has …  
+STEPHEN HAWKING: (interjecting) I would bring back Einstein. (laughter/applause) He would 
+be amazed at how much general relativity has advanced our understanding of the world.  
+LUCY HAWKING: I think that was his way of asking me to stop talking. (laughter)  
+SUE LAWLEY: And there we must e nd. Thank you for making this a memorable event. 
+There’s a mass of science on the BBC Reith website, including Robert Oppenheimer, whom 
+Stephen mentioned – one of the fathers of the atom bomb; the astrophysicist Martin Rees; 
+the radio astronomer Bernard Lo vell and many more. There’s an archive of recordings and 
+transcripts going back to 1948, so do have a look.  For now our thanks to our hosts here at the Royal Institution in London and of course huge 
+thanks to our Reith Lecturer, Professor Stephen Hawking.  
+ 
+THIS TRANSCRIPT IS ISSUED ON THE UNDERSTANDING THAT IT IS TAKEN FROM A LIVE PROGRAMME 
+AS IT WAS BROADCAST. THE NATURE OF LIVE BROADCASTING MEANS THAT NEITHER THE BBC NOR 
+THE PARTICIPANTS IN THE PROGRAMME CAN GUARANTEE THE ACCURACY OF THE INFORMATION 
+HERE . 
+bbc.co.uk/reithlectures  
+ 
+   
+ 
+ 

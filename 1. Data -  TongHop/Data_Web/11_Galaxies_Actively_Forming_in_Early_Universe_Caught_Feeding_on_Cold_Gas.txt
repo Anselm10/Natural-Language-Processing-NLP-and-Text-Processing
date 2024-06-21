@@ -1,0 +1,48 @@
+5 MIN READ
+Galaxies Actively Forming in Early Universe Caught Feeding on Cold Gas
+This illustration shows a galaxy forming only a few hundred million years after the big bang.
+Credits: NASA, ESA, CSA, Joseph Olmsted (STScI)
+Researchers analyzing data from NASA’s James Webb Space Telescope have pinpointed three galaxies that may be actively forming when the universe was only 400 to 600 million years old. Webb’s data shows these galaxies are surrounded by gas that the researchers suspect to be almost purely hydrogen and helium, the earliest elements to exist in the cosmos. Webb’s instruments are so sensitive that they were able to detect an unusual amount of dense gas surrounding these galaxies. This gas will likely end up fueling the formation of new stars in the galaxies.
+“These galaxies are like sparkling islands in a sea of otherwise neutral, opaque gas,” explained Kasper Heintz, the lead author and an assistant professor of astrophysics at the Cosmic Dawn Center (DAWN) at the University of Copenhagen in Denmark. “Without Webb, we would not be able to observe these very early galaxies, let alone learn so much about their formation.”
+“We’re moving away from a picture of galaxies as isolated ecosystems. At this stage in the history of the universe, galaxies are all intimately connected to the intergalactic medium with its filaments and structures of pristine gas,” added Simone Nielsen, a co-author and PhD student also based at DAWN.
+Image: Galaxy Forming in the Early Universe (Artist’s Concept)
+This illustration shows a galaxy forming only a few hundred million years after the big bang, when gas was a mix of transparent and opaque during the Era of Reionization. Data from NASA’s James Webb Space Telescope shows that cold gas is falling onto these galaxies.
+NASA, ESA, CSA, Joseph Olmsted (STScI)
+In Webb’s images, the galaxies look like faint red smudges, which is why extra data, known as spectra, were critical for the team’s conclusions. Those spectra show that light from these galaxies is being absorbed by large amounts of neutral hydrogen gas. “The gas must be very widespread and cover a very large fraction of the galaxy,” said Darach Watson, a co-author who is a professor at DAWN. “This suggests that we are seeing the assembly of neutral hydrogen gas into galaxies. That gas will go on to cool, clump, and form new stars.”
+The universe was a very different place several hundred million years after the big bang during a period known as the Era of Reionization. Gas between stars and galaxies was largely opaque. Gas throughout the universe only became fully transparent around 1 billion years after the big bang. Galaxies’ stars contributed to heating and ionizing the gas around them, causing the gas to eventually become completely transparent.
+By matching Webb’s data to models of star formation, the researchers also found that these galaxies primarily have populations of young stars. “The fact that we are seeing large gas reservoirs also suggests that the galaxies have not had enough time to form most of their stars yet,” Watson added.
+This is Only the Start
+Webb is not only meeting the mission goals that drove its development and launch – it is exceeding them. “Images and data of these distant galaxies were impossible to obtain before Webb,” explained Gabriel Brammer, a co-author and associate professor at DAWN. “Plus, we had a good sense of what we were going to find when we first glimpsed the data – we were almost making discoveries by eye.”
+There remain many more questions to address. Where, specifically, is the gas? How much is located near the centers of the galaxies – or in their outskirts? Is the gas pristine or already populated by heavier elements? Significant research lies ahead. “The next step is to build large statistical samples of galaxies and quantify the prevalence and prominence of their features in detail,” Heintz said.
+The researchers’ findings were possible thanks to Webb’s Cosmic Evolution Early Release Science (CEERS) Survey, which includes spectra of distant galaxies from the telescope’s NIRSpec (Near-Infrared Spectrograph), and was released immediately to support discoveries like this as part of Webb’s Early Release Science (ERS) program.
+This work has been published in the May 24, 2024 issue of the journal Science.
+The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars, and probing the mysterious structures and origins of our universe and our place in it. Webb is an international program led by NASA with its partners, ESA (European Space Agency) and CSA (Canadian Space Agency).
+Downloads
+Right click any image to save it or open a larger version in a new tab/window via the browser's popup menu.
+View/Download full resolution images for this article from the Space Telescope Science Institute.
+Research Paper: published in the May 24, 2024 issue of the journal Science.
+Media Contacts
+Laura Betz - laura.e.betz@nasa.gov, Rob Gutro - rob.gutro@nasa.gov
+NASA’s Goddard Space Flight Center, Greenbelt, Md.
+Claire Blome cblome@stsci.edu, Christine Pulliam - cpulliam@stsci.edu
+Space Telescope Science Institute, Baltimore, Md.
+Related Information
+Infographic: Era of Reionization Infographic
+Article: How Webb Can Study the Early Universe
+Video: Galaxies through Time
+Video: Scientists’ Perspective: Science Snippets
+Article: Galaxy Basics
+Article: Galaxy Evolution
+More Webb News - https://science.nasa.gov/mission/webb/latestnews/
+More Webb Images - https://science.nasa.gov/mission/webb/multimedia/images/
+Webb Mission Page - https://science.nasa.gov/mission/webb/
+Related For Kids
+What is a galaxy?
+VIDEO: Reading the Rainbow of Light from an Exoplanet's Atmosphere
+What is the Webb Telescope?
+SpacePlace for Kids
+En Español
+Para Niños : Qué es una galaxia?
+Ciencia de la NASA
+NASA en español 
+Space Place para niños

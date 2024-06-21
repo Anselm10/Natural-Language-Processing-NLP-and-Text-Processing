@@ -1,0 +1,33 @@
+5 MIN READ
+NASA’s TESS Finds Intriguing World Sized Between Earth, Venus
+Using observations by NASA’s TESS (Transiting Exoplanet Survey Satellite) and many other facilities, two international teams of astronomers have discovered a planet between the sizes of Earth and Venus only 40 light-years away. Multiple factors make it a candidate well-suited for further study using NASA’s James Webb Space Telescope.
+Gliese 12 b, which orbits a cool red dwarf star located just 40 light-years away, promises to tell astronomers more about how planets close to their stars retain or lose their atmospheres. In this artist’s concept, Gliese 12 b is shown retaining a thin atmosphere.
+NASA/JPL-Caltech/R. Hurt (Caltech-IPAC)
+TESS stares at a large swath of the sky for about a month at a time, tracking the brightness changes of tens of thousands of stars at intervals ranging from 20 seconds to 30 minutes. Capturing transits — brief, regular dimmings of stars caused by the passage of orbiting worlds — is one of the mission’s primary goals.
+“We’ve found the nearest, transiting, temperate, Earth-size world located to date,” said Masayuki Kuzuhara, a project assistant professor at the Astrobiology Center in Tokyo, who co-led one research team with Akihiko Fukui, a project assistant professor at the University of Tokyo. “Although we don’t yet know whether it possesses an atmosphere, we’ve been thinking of it as an exo-Venus, with similar size and energy received from its star as our planetary neighbor in the solar system.”
+The host star, called Gliese 12, is a cool red dwarf located almost 40 light-years away in the constellation Pisces. The star is only about 27% of the Sun’s size, with about 60% of the Sun’s surface temperature. The newly discovered world, named Gliese 12 b, orbits every 12.8 days and is Earth’s size or slightly smaller — comparable to Venus. Assuming it has no atmosphere, the planet has a surface temperature estimated at around 107 degrees Fahrenheit (42 degrees Celsius).
+Astronomers say that the diminutive sizes and masses of red dwarf stars make them ideal for finding Earth-size planets. A smaller star means greater dimming for each transit, and a lower mass means an orbiting planet can produce a greater wobble, known as “reflex motion,” of the star. These effects make smaller planets easier to detect.
+Gliese 12 b’s estimated size may be as large as Earth or slightly smaller — comparable to Venus in our solar system. This artist’s concept compares Earth with different possible Gliese 12 b interpretations, from one with no atmosphere to one with a thick Venus-like one. Follow-up observations with NASA’s James Webb Space Telescope could help determine just how much atmosphere the planet retains as well as its composition.
+NASA/JPL-Caltech/R. Hurt (Caltech-IPAC)
+The lower luminosities of red dwarf stars also means their habitable zones — the range of orbital distances where liquid water could exist on a planet’s surface — lie closer to them. This makes it easier to detect transiting planets within habitable zones around red dwarfs than those around stars emitting more energy.
+The distance separating Gliese 12 and the new planet is just 7% of the distance between Earth and the Sun. The planet receives 1.6 times more energy from its star as Earth does from the Sun and about 85% of what Venus experiences.
+“Gliese 12 b represents one of the best targets to study whether Earth-size planets orbiting cool stars can retain their atmospheres, a crucial step to advance our understanding of habitability on planets across our galaxy,” said Shishir Dholakia, a doctoral student at the Centre for Astrophysics at the University of Southern Queensland in Australia. He co-led a different research team with Larissa Palethorpe, a doctoral student at the University of Edinburgh and University College London.
+Both teams suggest that studying Gliese 12 b may help unlock some aspects of our own solar system’s evolution.
+“It is thought that Earth’s and Venus’s first atmospheres were stripped away and then replenished by volcanic outgassing and bombardments from residual material in the solar system,” Palethorpe explained. “The Earth is habitable, but Venus is not due to its complete loss of water. Because Gliese 12 b is between Earth and Venus in temperature, its atmosphere could teach us a lot about the habitability pathways planets take as they develop.”
+One important factor in retaining an atmosphere is the storminess of its star. Red dwarfs tend to be magnetically active, resulting in frequent, powerful X-ray flares. However, analyses by both teams conclude that Gliese 12 shows no signs of extreme behavior.
+A paper led by Kuzuhara and Fukui was published May 23 in The Astrophysical Journal Letters. The Dholakia and Palethorpe findings were published in Monthly Notices of the Royal Astronomical Society on the same day.
+During a transit, the host star’s light passes through any atmosphere. Different gas molecules absorb different colors, so the transit provides a set of chemical fingerprints that can be detected by telescopes like Webb. 
+“We know of only a handful of temperate planets similar to Earth that are both close enough to us and meet other criteria needed for this kind of study, called transmission spectroscopy, using current facilities,” said Michael McElwain, a research astrophysicist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and a co-author of the Kuzuhara and Fukui paper. “To better understand the diversity of atmospheres and evolutionary outcomes for these planets, we need more examples like Gliese 12 b.”
+TESS is a NASA Astrophysics Explorer mission managed by NASA Goddard and operated by MIT in Cambridge, Massachusetts. Additional partners include Northrop Grumman, based in Falls Church, Virginia; NASA’s Ames Research Center in California’s Silicon Valley; the Center for Astrophysics | Harvard & Smithsonian in Cambridge, Massachusetts; MIT’s Lincoln Laboratory; and the Space Telescope Science Institute in Baltimore. More than a dozen universities, research institutes, and observatories worldwide are participants in the mission.
+Download additional images and video from NASA's Scientific Visualization Studio
+By Francis Reddy
+NASA’s Goddard Space Flight Center, Greenbelt, Md.
+
+Media Contact:
+Claire Andreoli
+301-286-1940
+claire.andreoli@nasa.gov
+NASA’s Goddard Space Flight Center, Greenbelt, Md.
+@NASAUniverse
+@NASAUniverse
+@NASAUniverse

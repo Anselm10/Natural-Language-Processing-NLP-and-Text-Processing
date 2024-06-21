@@ -1,0 +1,64 @@
+7 MIN READ
+Webb Cracks Case of Inflated Exoplanet
+This artist’s concept shows what the warm Neptune exoplanet WASP-107 b could look like.
+Credits: NASA, ESA, CSA, Ralf Crawford (STScI)
+Why is the warm gas-giant exoplanet WASP-107 b so puffy? Two independent teams of researchers have an answer.
+Data collected using NASA’s James Webb Space Telescope, combined with prior observations from NASA’s Hubble Space Telescope, show surprisingly little methane (CH4) in the planet’s atmosphere, indicating that the interior of WASP-107 b must be significantly hotter and the core much more massive than previously estimated.
+The unexpectedly high temperature is thought to be a result of tidal heating caused by the planet’s slightly non-circular orbit, and can explain how WASP-107 b can be so inflated without resorting to extreme theories of how it formed.
+The results, which were made possible by Webb’s extraordinary sensitivity and accompanying ability to measure light passing through exoplanet atmospheres, may explain the puffiness of dozens of low-density exoplanets, helping solve a long-standing mystery in exoplanet science.
+Image: Warm Gas-Giant Exoplanet WASP-107 b (Artist’s Concept)
+This artist’s concept shows what the warm Neptune exoplanet WASP-107 b could look like based on recent data gathered by NASA’s James Webb Space Telescope along with previous observations from NASA’s Hubble Space Telescope and other observatories. Observations captured by Hubble’s WFC3 (Wide Field Camera 3), Webb’s NIRCam (Near-Infrared Camera), Webb’s NIRSpec (Near-Infrared Spectrograph), and Webb’s MIRI (Mid-Infrared Instrument) suggest that the planet has a relatively large core surrounded by a relatively small mass of hydrogen and helium gas, which has been inflated due to tidal heating of the interior.
+NASA, ESA, CSA, Ralf Crawford (STScI)
+The Problem with WASP-107 b
+At more than three-quarters the volume of Jupiter but less than one-tenth the mass, the “warm Neptune” exoplanet WASP-107 b is one of the least dense planets known. While puffy planets are not uncommon, most are hotter and more massive, and therefore easier to explain.
+“Based on its radius, mass, age, and assumed internal temperature, we thought WASP-107 b had a very small, rocky core surrounded by a huge mass of hydrogen and helium,” explained Luis Welbanks from Arizona State University (ASU), lead author on a paper published today in Nature. “But it was hard to understand how such a small core could sweep up so much gas, and then stop short of growing fully into a Jupiter-mass planet.”
+If WASP-107 b instead has more of its mass in the core, the atmosphere should have contracted as the planet cooled over time since it formed. Without a source of heat to re-expand the gas, the planet should be much smaller. Although WASP-107 b has an orbital distance of just 5 million miles (one-seventh the distance between Mercury and the Sun), it doesn’t receive enough energy from its star to be so inflated.
+“WASP-107 b is such an interesting target for Webb because it’s significantly cooler and more Neptune-like in mass than many of the other low-density planets, the hot Jupiters, we’ve been studying,” said David Sing from the Johns Hopkins University (JHU), lead author on a parallel study also published today in Nature. “As a result, we should be able to detect methane and other molecules that can give us information about its chemistry and internal dynamics that we can’t get from a hotter planet.”
+A Wealth of Previously Undetectable Molecules
+WASP-107 b’s giant radius, extended atmosphere, and edge-on orbit make it ideal for transmission spectroscopy, a method used to identify the various gases in an exoplanet atmosphere based on how they affect starlight.
+Combining observations from Webb’s NIRCam (Near-Infrared Camera), Webb’s MIRI (Mid-Infrared Instrument), and Hubble’s WFC3 (Wide Field Camera 3), Welbanks’ team was able to build a broad spectrum of 0.8- to 12.2-micron light absorbed by WASP-107 b’s atmosphere. Using Webb’s NIRSpec (Near-Infrared Spectrograph), Sing’s team built an independent spectrum covering 2.7 to 5.2 microns.
+The precision of the data makes it possible to not just detect, but actually measure the abundances of a wealth of molecules, including water vapor (H2O), methane (CH4), carbon dioxide (CO2), carbon monoxide (CO), sulfur dioxide (SO2), and ammonia (NH3). 
+Image:Warm Gas-Giant Exoplanet WASP-107 b Transmission Spectrum (Hubble WFC3, Webb NIRCam, and Webb MIRI
+This transmission spectrum, captured using NASA’s Hubble and James Webb space telescopes, shows the amounts of different wavelengths (colors) of starlight blocked by the atmosphere of the gas-giant exoplanet WASP-107 b. The spectrum includes light collected over four separate observations using a total of three different instruments: Hubble’s WFC3 (Wide Field Camera 3) Grism Spectrometer in green, Webb’s NIRCam (Near-Infrared Camera) Grism Spectrometer in orange, and Webb’s MIRI (Mid-Infrared Instrument) Low-Resolution Spectrometer in pink. This spectrum shows clear evidence for water (H2O), carbon dioxide (CO2), carbon monoxide (CO), methane (CH4), sulfur dioxide (SO2), and ammonia (NH4) in the planet’s atmosphere, allowing researchers to estimate the interior temperature and mass of the core.
+Illustration: NASA, ESA, CSA, Ralf Crawford (STScI) Science: L. Welbanks (ASU) and the JWST MANATEE team
+Image:Warm Gas-Giant Exoplanet WASP-107 b (Transmission Spectrum: Webb NIRSpec)
+This transmission spectrum, captured using Webb’s NIRSpec (Near-Infrared Spectrograph) Bright Object Spectrometer, shows the amounts of different wavelengths (colors) of near-infrared starlight blocked by the atmosphere of the gas-giant exoplanet WASP-107 b. The spectrum shows clear evidence for water (H2O), carbon dioxide (CO2), carbon monoxide (CO), methane (CH4), and sulfur dioxide (SO2) in the planet’s atmosphere, allowing researchers to estimate the interior temperature and core mass.
+Illustration: NASA, ESA, CSA, Ralf Crawford (STScI) Science: D. Sing (JHU) and the NIRSpec GTO transiting exoplanet team
+Roiling Gas, Hot Interior, and Massive Core
+Both spectra show a surprising lack of methane in WASP-107 b’s atmosphere: one-thousandth the amount expected based on its assumed temperature.
+“This is evidence that hot gas from deep in the planet must be mixing vigorously with the cooler layers higher up,” explained Sing. “Methane is unstable at high temperatures. The fact that we detected so little, even though we did detect other carbon-bearing molecules, tells us that the interior of the planet must be significantly hotter than we thought.”
+A likely source of WASP-107 b’s extra internal energy is tidal heating caused by its slightly elliptical orbit. With the distance between the star and planet changing continuously over the 5.7-day orbit, the gravitational pull is also changing, stretching the planet and heating it up.
+Researchers had previously proposed that tidal heating could be the cause of WASP-107 b’s puffiness, but until the Webb results were in, there was no evidence.
+Once they established that the planet has enough internal heat to thoroughly churn up the atmosphere, the teams realized that the spectra could also provide a new way to estimate the size of the core.
+“If we know how much energy is in the planet, and we know what proportion of the planet is heavier elements like carbon, nitrogen, oxygen, and sulfur, versus how much is hydrogen and helium, we can calculate how much mass must be in the core,” explained Daniel Thorngren from JHU.
+It turns out that the core is at least twice as massive as originally estimated, which makes more sense in terms of how planets form.
+All together, WASP-107 b is not as mysterious as it once appeared.
+“The Webb data tells us that planets like WASP-107 b didn’t have to form in some odd way with a super small core and a huge gassy envelope,” explained Mike Line from ASU. “Instead, we can take something more like Neptune, with a lot of rock and not as much gas, just dial up the temperature, and poof it up to look the way it does.”
+The James Webb Space Telescope is the world's premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars, and probing the mysterious structures and origins of our universe and our place in it. Webb is an international program led by NASA with its partners, ESA (European Space Agency) and CSA (Canadian Space Agency).
+Downloads
+Right click any image to open (or save) a larger version in a new tab/window via the browser's popup menu.
+View/Download full resolution images for this article from the Space Telescope Science Institute.
+Research Paper: "A high internal heat flux and large core in a warm Neptune exoplanet" by L. Welbanks, et al.
+Research Paper: "A warm Neptune’s methane reveals core mass and vigorous atmospheric mixing" by D. Sing, et al.
+Media Contacts
+Laura Betz - laura.e.betz@nasa.gov, Rob Gutro - rob.gutro@nasa.gov
+NASA’s Goddard Space Flight Center, Greenbelt, Md.
+Margaret Carruthers mcarruthers@stsci.edu, Christine Pulliam - cpulliam@stsci.edu
+Space Telescope Science Institute, Baltimore, Md.
+Related Information
+What is an Exoplanet?
+VIDEO: How do we learn about a planet's Atmosphere?
+Webb's Impact on Exoplanet Research
+More Webb News - https://science.nasa.gov/mission/webb/latestnews/
+More Webb Images - https://science.nasa.gov/mission/webb/multimedia/images/
+Webb Mission Page - https://science.nasa.gov/mission/webb/
+Related For Kids
+What is a exoplanet?
+VIDEO: Reading the Rainbow of Light from an Exoplanet's Atmosphere
+What is the Webb Telescope?
+SpacePlace for Kids
+En Español
+Para Niños : Qué es una exoplaneta?
+Ciencia de la NASA
+NASA en español 
+Space Place para niños

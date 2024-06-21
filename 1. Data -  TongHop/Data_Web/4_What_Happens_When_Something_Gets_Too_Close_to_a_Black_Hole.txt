@@ -1,0 +1,48 @@
+7 MIN READ
+What Happens When Something Gets ‘Too Close’ to a Black Hole?
+Can a star be squeezed like a tube of toothpaste, flattened like a pancake, or stretched out like a piece of spaghetti? If there's a black hole nearby, maybe.
+Scattered across the universe, black holes are objects with gravity so powerful, nothing can escape their grasp. These objects can tear apart whole stars and planets.
+Seen nearly edgewise, the turbulent disk of gas churning around a black hole takes on a bizarre double-humped appearance. The black hole’s extreme gravity alters the paths of light coming from different parts of the disk, producing the warped image where we see the disk behind the black hole as if it is simultaneously on the top and the bottom of the black hole.
+NASA’s Goddard Space Flight Center/Jeremy Schnittman
+Scientists have theorized about the existence of black holes since the 18th century. However, it wasn’t until 1964 that astronomers found strong evidence of a black hole for the first time. Observatories detected X-rays coming from Cygnus X-1, which we now know is a black hole in orbit around a regular star in our own Milky Way galaxy. Now astronomers have a growing understanding of these strange gravitational powerhouses that form from the collapsed cores of dying stars.
+While scientists have dramatically improved our understanding of black holes since that first detection, these objects remain quite mysterious. This is, in part, because light can't escape from a black hole, so they cannot be observed directly with telescopes. Instead, astronomers primarily look for the ways that black holes influence and distort matter around them.
+One question that continues to intrigue scientists and science enthusiasts alike is: What actually happens when something gets too close to a black hole? Or, even though there are no black holes within human reach, what would happen if one of us got a little too close to a black hole?
+Spaghettification and the "Point of No Return"
+Whether it's gas, dust, planets, stars, or a hypothetical wayward space traveler, black holes are powerful enough to capture anything that veers too close.
+The exact effects of a black hole depend on its mass, which can vary dramatically as black holes range from miniature to supermassive, or anywhere from tens to billions of times our Sun’s mass. While a black hole’s gravity isn’t strange on its own, things change when an object gets too close, which generally means close enough that it can no longer maintain a stable orbit around the massive object.
+What sets black holes and their gravitational power apart is their extreme density. While there are objects just as massive as some black holes, they don’t have the same density. Black holes are extremely massive, but that mass is concentrated in a smaller area, creating a high density that increases the maximum force of a black hole’s gravity by allowing objects to get very close to all of that mass.
+When an object gets “too close,” it will start to experience tidal forces. Here on Earth, the ocean has high and low tides which are caused by the Moon's gravitational pull tugging on Earth and its water. So, tidal forces refer to the distortion of one object by another due to the difference in the gravitational pull on the near and far side of an object. Due to a black hole’s extreme density, objects in its vicinity will experience extreme gravity and hence extreme tidal forces that can even pull the object apart.
+Watch eight model stars stretch and deform as they approach a virtual black hole 1 million times the mass of the Sun. The black hole rips some stars apart into a stream of gas, a phenomenon called a tidal disruption event. Others manage to withstand their close encounters. These simulations show that destruction and survival depend on the stars’ initial densities. Yellow represents the greatest densities, blue the least dense.
+NASA’s Goddard Space Flight Center/Taeho Ryu (MPA)
+The effects of a black hole continue to escalate as an object approaches a black hole's event horizon: This is the point of no return, or the boundary surrounding a black hole beyond which nothing, not even light, can escape. For any object falling into a black hole, the part closer to the black hole will feel a stronger gravitational pull than the part farther away from the black hole. This difference in gravitational pull increases as the object gets closer to the event horizon. The difference in gravitational pull isn’t unique to black holes, but their extreme density creates an extreme effect.
+This effect essentially stretches out the object more and more as the object gets closer to the black hole, creating a long, thin shape. This process is known as spaghettification, which was first described by theoretical physicist Stephen Hawking in his book "A Brief History of Time."
+In the book, Hawking describes a fictional astronaut's journey into a black hole's event horizon. In Hawking's description, he detailed how the astronaut crossed over the event horizon and was "stretched like spaghetti," hence the phenomenon's name. Astronomers have also theorized stars could look like they were squeezed like a tube of toothpaste when they’re stretched by the gravity of black holes.
+But black holes don’t just turn things to spaghetti. Just as gravity close to a black hole can stretch things out, it can also flatten objects like pancakes. This is a phenomenon known as “pancake detonation” that primarily happens with supermassive black holes. In this phenomenon, stars that get too close to these black holes will be flattened and compressed by tidal forces. This short-lived “pancake” distortion is followed by an explosive release of thermonuclear energy.
+Time Can Change
+In addition to gravity stretching and squashing objects, another strange phenomenon that a traveler would observe close to a black hole is something called time dilation, in which time passes slower closer to the black hole than further away. This happens because massive objects (like black holes) create strong gravitational fields that curve and stretch the "fabric" of space-time.
+We actually experience a very small amount of time dilation here on Earth because of Earth’s gravity. This has been seen on airplanes where clocks tick at slightly faster rates in the air as opposed to on the ground. Astronauts living on the International Space Station also experience time at a slightly different rate because they are further from the gravitational pull of the Earth.
+To imagine time dilation in action, picture an object traveling towards a black hole. As the object approaches the event horizon, it appears to start moving infinitely slower until the object will appear completely frozen.
+So where does all of this matter falling into a black hole go?
+What Happens Next?
+Some, but not all, black holes are surrounded by hot, swirling matter in what is called an accretion disk. Here, gas and dust will collect, swirl, and flatten into this pancake-shaped disk.
+Matter in an accretion disk will continue to swirl and fall toward the event horizon of a black hole. As an object gets closer and closer, the gravitational force will intensify and the matter will continue to be pulled apart and spaghettify.
+By its very nature, a black hole cannot be seen, but the hot disk of material that encircles it shines bright. Against that bright backdrop, a black hole can appear to cast a shadow. In April 2019, an international network of radio telescopes called the Event Horizon Telescope (EHT) captured this image of a black hole and its shadow for the first time.
+Event Horizon Telescope collaboration et al.
+As matter in an accretion disk falls further inward towards a black hole, it swirls around and the friction from this movement can create light ranging from radio waves to visible light and X-rays. Sometimes, black holes can even redirect some of that infalling matter into jets of high-speed particles traveling away from the black hole that can emit gamma rays. Astronomers can use these jets of radiation to find black holes.
+All in all, matter near a black hole can be spaghettified, super-heated, squeezed, pancaked, pulled apart, and swirled around all while time itself stretches in unusual ways. But once that matter falls all the way past the event horizon into the black hole, we don't yet know exactly what happens. This is one part of the story that remains a mystery.
+By Chelsea Gohd
+NASA's Jet Propulsion Laboratory
+Share
+Details
+LAST UPDATED
+Feb 27, 2024
+EDITOR
+Chelsea Gohd
+Related Terms
+Astronomy
+Astrophysics
+Black Holes
+Galaxies, Stars, & Black Holes
+Stars
+Supernovae
+The Universe

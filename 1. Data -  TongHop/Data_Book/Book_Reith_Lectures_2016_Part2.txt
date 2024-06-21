@@ -1,0 +1,325 @@
+Since that time, the mathematical evidence that bla ck holes emit thermal radiation  has been 
+confirmed by a number of other people with various different approaches. One way to 
+understand the emission is as fol lows. Quantum mechanics implies  that the whole of space is 
+pairs of virtual and anti particles , filled with pairs of virt ual part icles and antiparticles , that 
+are constantly materializing in pairs, separating, and then co ming together again, and 
+annih ilating each other.  
+ 
+DS: This concept  hinges on the idea that a vacuum is never totally empty. According to the 
+uncertainty principle of quantum mechanics, there is always the chance that particles may come 
+into existence, however briefly . And this would always involve  pairs of particles, with opposite 
+characteristics , appearing and disappearing . 
+ 
+These particles are called virtual because unlike real particles  they cannot be observed 
+directly with a particle detector. Their indirect effects can nonetheless be measured, and 
+their existence has been confirmed by a small shift, called the Lamb shift, which they 
+produce in the spectrum energy o f light from excited hydrogen atoms. Now in the presence 
+of a black hole, one member of a pair of virtual particles may fall into the hole, leaving the 
+other member witho ut a partner with which to annih ilate. The forsaken particle or 
+antiparticle may fall into the black hole after its partner, but it may also escape to infinity, 
+where it appears to be radiation emitted by the black hole.  
+ 
+DS: The key here is that the formation and disappearance of these particles norm ally passes 
+unnoticed. But if the process  happens right on the edge of a black hole, one of the pair may get 
+dragged in while the other is not . The particle that  escapes would then look as if it’s  being spat out 
+by the black hole.  
+ 
+A black hole of the mass of the sun, would leak particles at such a slow rate, it would be 
+impossible to detect. However, there could be much smaller mini black holes with the mass 
+of say, a mountain. A mountain -sized black hole would give off x -rays and g amma rays, at a 
+rate of about ten million m egawatts, enough to power the world's electricity supply. It 
+wouldn't be easy however, to harness a mini black hole.  You couldn't keep it in a power 
+station, because it would drop through the floor  and end up at the centre of the Earth. If we 
+had such a black hole, about the only way to keep hold of it  would be to have it in orbit 
+around the Earth.  
+ 
+People have searched for mini black holes of this mass, but have so far not found any. This  is 
+a pity, because if they had  I would have got a Nobel Prize.  Another possibility , however, is 
+that we might be able to create micro black holes in the extra dimensions of space time.  
+ 
+DS: By ‘extra dimensions ’, he means something beyond the three dimension s that we are all fami liar 
+with in our everyday lives , plus the fourth dimension of time. The idea  arose as part of an effort to 
+explain why  gravity is so much weaker than other forces such as magnetism – maybe i t’s also 
+having  to operate in parallel dimensions.  
+ 
+According to some theor ies, the universe we experience  is just a four dimensional surface  in 
+a ten or eleven dimensiona l space. The movie Interstellar  gives some idea of what this is 
+like. We wouldn't see t hese extra dimensions  because light wouldn't propagate through 
+them but only through the four dimensions of our universe. Gravity , however, wo uld affect the extra dimensions  and would be much stronger than in our universe. This would make it 
+much easier to form a lit tle black hole in the extra dimensions. It might be possible to 
+observe this at the LHC, th e Large Hadron Collider, at CERN  in Switzerland. This consists 
+of a circular tunnel, 27 kilometre s long.  Two beams of particles travel round this tunnel in 
+opposite  directions, and are made to collide. Some of the collisions might create micro 
+black holes. These would radiate particles in a pattern that  would be easy to recognize. So I 
+might get a Nobel Prize  after all.  
+ 
+DS: The Nobel Prize in Physics is awarded  when a t heory is “tested by time” which in practice 
+means confirmation by hard evidence. For example, Peter Higgs was among scientists who , back in 
+the 1960s, suggested the existence of a particle that would give other  particle s their mass. Nearly 
+50 years later, two different detectors at the Large Hadron Collider spotted signs of what had 
+become known as the Higgs Boson. It was a triumph of s cience and engineering, of clever theory 
+and hard-won evidence. A nd Peter Higgs and Francois Englert , a Belgian scientist, were jointly 
+awarded the prize. No physical proof has yet been found of Hawking Radiation.  
+ 
+As particles escape from a black hole, the hole will lose mass, and shrink. This will increase 
+the rate of emission of particles. Eventually, the black hole will lose all its mass, and 
+disappear. What then happens to all the pa rticles and unlucky astronauts that fell into the 
+black ho le? They can't just re -emerge when the black hole disappears. It appears that the 
+information about what fell in is lost, apart from the total amount of mass, and the amount 
+of rotation. But if information is lost, this raises a serious problem that strikes at the heart 
+of our understanding of science.  
+ 
+For more than 200 years, we have believed in scientific determinism, that is, that the laws of 
+science determine the evolution of the universe. T his was formulated by Pierre -Simon 
+Laplace , who said that if we know the state of the universe at one time, the laws of science 
+will determine it at all future and pas t times. Napoleon is said to have asked Laplace  how 
+God fitt ed into this picture.  Laplace replied, “Sire, I have not needed that hypothesis. ” I 
+don't think that Laplace  was claiming that God  didn't exist. It is just that h e doesn't 
+intervene to break the laws of s cience. That must be the position of every scientist. A 
+scienti fic law is not a scientific law  if it only holds when some supernatural being decides to 
+let things run  and not intervene.  
+ 
+In Laplace 's determinism, one needed to know the positions a nd speeds of all particles at 
+one time, in order to predict the future. But there's the uncertainty relationship, discovered 
+by Walter Heisenberg in 1923, which lies at the heart of quantum mechanics.  
+ 
+This holds that the more accurately you know the posi tions of particles, the less accurately 
+you can know their speeds, and vice versa. In other words, you can't know both the 
+positions and the speeds accurately. How then can yo u predict the future accurately?  The 
+answer is that although one can't predict th e positions and speeds separately, one can 
+predict what is called the quantum state. This is something from which both positio ns and 
+speeds can be calculated  to a certain degree of accuracy. We would still expect the universe 
+to be deterministic, in the se nse that if we knew the quantum state of the universe at one 
+time, the laws of science should enable us to predict it at any other time.  
+ DS: What began as an explanation of what hap pens at an event horizon  has deepened into an 
+exploration of some o f the most important philo sophies  in science  - from the clockwork world of 
+Newton to the laws of Laplace to the uncertainties of Heisenberg  – and where they are challenged 
+by the mystery of black holes.  Essentially, information entering a black hole should be destroy ed, 
+according to Einstein’s Theor y of General Relativity while quantum theory says  it cannot be broken 
+down, and this remains an unresolved question.  
+ 
+If information were lost in black holes, we wouldn't be able to predict the future, because a 
+black hole  could emit any collection of particles. It could emit a worki ng television set, or a 
+leather -bound volume of the complete works of Shakespeare, though the chance of such 
+exotic emissions is very low. It might seem th at it wouldn't matter very much  if we c ouldn't 
+predict what comes out of black holes. There aren't any black holes near us. But it is a 
+matter of principle. If determinism, the predictability of the universe, breaks down with 
+black holes, it could break down in other situations. Even worse, if determinism breaks 
+down, we can't be sure of our past history either. The history books and our memories 
+could just be illusions. It is the past that tells us who we are. Without it, we lose our 
+identity.  
+ 
+ 
+It was therefore very important to determine whet her information really was lost in black 
+holes, or whether in principle, it could be recovered. Many scientists felt that information 
+should not be lost, but no one could suggest a mechanism by which it could be preserved. 
+The arguments went on for years. Finally, I found what I think is the answer. It depen ds on 
+the idea of Richard Fey nman, that there isn't a single history, but many different possible 
+histories, each with their own probability. In this case, there are two kinds of history. In 
+one, there i s a black hole, into which particles can fall, but in  the other kind  there  is no black 
+hole.  
+ 
+The point is  that from the outside, one can't be certai n whether there is a black hole  or not. 
+So there is always a chance that there isn't a black hole. This poss ibility is enough to 
+preserve the information, but the information is not returned in a very useful form. It is like 
+burning an encyclop aedia.  Information is not lost if you keep all the smoke and ashes, but it 
+is difficult to read.  The scientist Kip Thor ne and I  had a bet with another physicist, John 
+Preskill, that information would be lost in black holes. When I discovered how information 
+could be preserved, I conceded the bet. I gave John Preskill an encyclop aedia. Maybe I 
+should have just given him the  ashes.  
+ 
+DS: In theory, and with a purely deterministic view of the universe, y ou could burn an encyclopaedia  
+and then reconstitute it  if you knew the characteristics and position of every atom making up every 
+molecule of ink in every letter  and kept track of them all at all times.  
+ 
+Currently I'm working with my Cam bridge colleague Malcolm Perry and Andrew Strominger 
+from Harvard  on a new theory based on a mathematical  idea called supertranslations to 
+explain the mechanism by which informati on is returned out of the black hole. The 
+information is encoded on the horizon of the black hole. Watch this space.   
+ 
+DS: Since the Reith Lectures were recorded, Prof Hawking and his co lleagues have published a 
+paper  which makes a mathema tical case that information can be  stored in the event horizon. The theory  hinges on information being transformed into a two -dimensional hologram in a process 
+known as supertranslation s. The paper, titled Soft H air on Black Holes, offers a highly revealing 
+glimpse into  the esoteric  language of this field http://arxiv.org/pdf/1601.00921v1.pdf  and the 
+challenge that scientists  face in trying to explain it.  
+ 
+What does this tell us about whether it is possible to fall in a black hole, an d come out in 
+another universe? The existence of alternative histories with black holes suggests this might 
+be possible. The hole would need to be large, and if it was rotating, it might have a passage 
+to another universe. But you couldn't  come back to our universe. So although I'm keen on 
+space flight, I'm not going to try that.  
+ 
+DS: If black holes are rotating, then their heart may not consist of a singularity in the sense of an 
+infinitely dense point. Instead, there may be a singularity in the form of a ring . And t hat leads to 
+speculation abou t the possibility of not only falling  into a black hole but also travelling through one . 
+This would mean leaving the universe  as we know it. And  Stephen Hawking concludes with a  
+tantalising thought : that there may something on the other side.  
+ 
+The message of this le cture  is that black holes ain't as black as they are painted. They are 
+not the eternal prisons they were once thought. Things can get out of a black hole, bo th to 
+the outside, and possibly to another universe. So  if you feel you are in a black hole, don't 
+give up. There's a way out.  Thank you very much.  
+ 
+bbc.co.uk/reithlectures  
+ 
+   
+ 
+ 
+ 
+Transcript of audience Q and A after the second  lecture  
+ 
+SUE LAWLEY: Professor Hawking, thank you very much indeed. So we’ve been taken on a trip to the 
+outer regions of the universe, to the brink of human understanding and beyond. Listeners have sent 
+in hundreds of questions for the professor and some of them are here with us now in the lecture 
+theatre of the Royal Institution in London t o put their questions in person. Can we have our first 
+questioner, please? She’s Marie Griffiths who comes from Godalming in Surrey, a civil servant at the 
+Department for Education and has always been interested in physics. Your question, please, Marie?  
+ 
+MARIE GRIFFITHS: Did the Big Bang start just one universe or all the multiverses?  
+ 
+SUE LAWLEY: Stephen?  
+ 
+STEPHEN HAWKING: Some theories about the Big Bang allow for the creation of a very large and 
+complex universe, maybe even many universes. However, even if there were other universes, we 
+wouldn’t know about them. Our connected component of space time is all we can know.  
+ 
+SUE LAWLEY: It’s all we can know, Marie. And it’s quite enough, by the sound of it. Let’s have our 
+next question – a question from John Brook myre from Middlesbrough who describes himself as an 
+ordinary working bloke and a lifelong learner. He couldn’t unfortunately get here today, but let me 
+put his question to you for him, Stephen. If you were a time lord, what moment in time would 
+interest yo u and why?  
+ 
+STEPHEN HAWKING: I would like to meet Galileo. He was the first modern scientist, who realized the 
+importance of observation. Galileo was the first person to challenge the received wisdom that the 
+ancient Greeks, and Aristotle in particular, wer e the ultimate authority in science. Galileo pointed 
+out that simple observations, like dropping weights from a height, show things do not work the way 
+Aristotle said. This must have been seen by many people, but they had put it down to imperfect 
+observati ons, or other reasons. But Galileo said the ancients were actually wrong and started to 
+work out the correct laws from the observations. That makes him the father of modern science. He 
+followed his nose, and was a bit of a rebel. (laug hter)  
+ 
+SUE LAWLEY: A r ebel who was forced to recant, of course. Right I’m going to come to Dara O’Briain 
+over here on the right. Dara, the entertainer and science graduate. He studied pure mathematics 
+and theoretical physics at University College Dublin in preparation for his c areer as a stand -up comic. 
+(laughter) So you’re an expert, are you Dara, on both physics and humour?  
+ 
+DARA O’BRIAIN: Yes, yeah, we overlap in some ways. Given that Stephen has appeared twice in The 
+Simpsons, he has a more successful comedy career than I do.  (laughter)  
+ 
+SUE LAWLEY: But he was your boyhood hero, wasn’t he?  
+ 
+DARA O’BRIAIN: There was a huge … Yes I remember receiving a copy of A Brief History of Time for 
+my Christmas when I was about 16. I had the pleasure this year of meeting him and having it 
+autographed as it were and spending some time with Stephen this year. It was an honour.  
+ 
+SUE LAWLEY: Okay ask him another question.  
+ 
+DARA O’BRIAIN: Well actually given the chance, I turned the opportunity of this question over to 
+some physicists I know – in pa rticular Jim Al -Khalili. Professor Jim Al -Khalili wanted to ask a question 
+from within the scientific community. As he said, most of the people in the physics community 
+would indeed see the confirmation of Hawking radiation, which Professor Hawking invente d in 1974, 
+as being worthy of a Nobel Prize since it would have been the first theoretical prediction that 
+required both quantum mechanics and relativity. Does Professor Hawking believe that Hawking 
+radiation will be observed in his lifetime? And if it is observed, where does he think this 
+experimental evidence will come from?  
+ 
+STEPHEN HAWKING: I am resigned to the fact that I won't see proof of Hawking radiation directly, 
+though there are solid state analogues of black holes and cyclotron effects that the N obel committee 
+might accept as proof. (laughter) But there's another kind of Hawking radiation coming from the 
+cosmological event horizon of the early inflationary universe. I’m now studying whether one might 
+detect Hawking radiation in primordial gravitat ional waves. So I might get a Nobel Prize after all.  
+ 
+SUE LAWLEY: (laughter) A new kind of Hawking radiation then from light years earlier. Does that 
+excite you Dara?  
+ DARA O’BRIAIN: It does say one thing, however – that the work that Professor Hawking’s bee n 
+doing, theoretically and has been doing??, has skipped so far ahead of what we can do 
+experimentally that there will be for a long time people racing to keep up with this work.  
+ 
+SUE LAWLEY: So I dare say you think that, whatever happens, he should get the  Nobel Prize, huh?  
+ 
+DARA O’BRIAIN: If it was done by public acclaim, if it was a phone vote, (laughter) but the Swedes 
+are notoriously sticky about that kind of stuff. So yeah, but I do believe - yes.  
+ 
+SUE LAWLEY: Okay. Chris Cooke, a 25 year old product des igner from Crawley in Sussex. Chris 
+studied mechanical engineering, so he’s always been interested in physics. In his spare time, he does 
+stand -up comedy, Dara, “despite my introverted … (laughter) despite my introverted personality 
+traits”, he says. Chris , your question?  
+ 
+CHRIS COOKE: Do you feel that using a speech device to communicate has changed your personality 
+in any way? As an introvert, has it made you more extroverted?  
+ 
+SUE LAWLEY: Stephen?  
+ 
+STEPHEN HAWKING: Well I am not sure I have ever been called  an introvert before. (laughter) Just 
+because I spend a lot of time thinking doesn’t mean I don’t like parties and getting into trouble. 
+(laughter) I enjoy communicating and I enjoy giving popular lectures about science. My speech 
+synthesizer has been very  important for this, even though I ended up with an American accent. 
+(laughter) Before I lost my voice, my speech was slurred, so only those close to me could 
+understand, but with the computer voice I found I could talk to everyone without help. So it has 
+allowed me to express my personality rather than changing it.  
+ 
+SUE LAWLEY: Thank you very much for that question. Another questioner, Patrick Donaghue. He’s a 
+set designer who lives and works in London. Your question, Patrick?  
+ 
+PATRICK DONAGUE: Professor Haw king, do you think the world will end naturally or will man destroy 
+it first?  
+ 
+SUE LAWLEY: Professor Hawking, just a small question. (laughter)  
+ 
+STEPHEN HAWKING: We face a number of threats to our survival from nuclear war, catastrophic 
+global warming, and g enetically engineered viruses. The number is likely to increase in the future, 
+with the development of new technologies, and new ways things can go wrong. Although the chance 
+of a disaster to planet Earth in a given year may be quite low, it adds up over t ime, and becomes a 
+near certainty in the next thousand or ten thousand years. By that time we should have spread out 
+into space, and to other stars, so a disaster on Earth would not mean the end of the human race. 
+However, we will not establish selfsustain ing colonies in space for at least the next hundred years, so 
+we have to be very careful in this period. (laughter) Most of the threats we face come from the 
+progress we have made in science and technology. We are not going to stop making progress, or 
+reve rse it, so we have to recognize the dangers and control them. I'm an optimist, and I believe we 
+can.  
+ 
+SUE LAWLEY: Well I don’t know about the world, but we’re definitely running out of time. We’ve got 
+one last question from Tara Struthers who’s originally f rom the Orkneys, which may account for her 
+lifelong interest in astronomy. These days she works for a film production company.  
+ TARA STRUTHERS: If you had to offer one piece of advice for future generations of scientists, namely 
+physicists and cosmologists,  what would it be?  
+ 
+STEPHEN HAWKING: Science is a great enterprise and I want to share my excitement and enthusiasm 
+about its success. From my own perspective, it has been a glorious time to be alive and doing 
+research in theoretical physics. There is nothi ng like the Eureka moment of discovering something 
+that no one knew before. So my advice to young scientists is to be curious, and try to make sense of 
+what you see. We live in a universe governed by rational laws that we can discover and understand. 
+Despi te recent triumphs, there are many new and deep mysteries that remain for you to solve. And 
+keep a sense of wonder about our vast and complex universe and what makes it exist. But you also 
+must remember that science and technology are changing our world dr amatically, so it’s important 
+to ensure that these changes are heading in the right directions. In a democratic society, this means 
+that everyone needs to have a basic understanding of science to make informed decisions about the 
+future. So communicate pla inly what you are trying to do in science, and who knows, you might even 
+end up understanding it yourself. (laughter)  
+ 
+SUE LAWLEY: And there we must end. Newton was once asked how he’d managed to understand so 
+much about the laws of the universe and he answ ered: "by thinking of these things continually." 
+Those of us who rely on others to do their thinking for them, are very glad that we have men like 
+Stephen Hawking. His lectures will be available on the BBC Reith website where you’ll find 
+recordings, transc ripts and videos - an archive of all 67 series of Reith Lectures going back to 1948. 
+For now, from the Royal Institution in London, our thanks to the BBC Reith Lecturer Professor 
+Stephen Hawking. And goodbye.  
+ 
+APPLAUSE  
+ 
+ 
+THIS TRANSCRIPT IS ISSUED ON THE UNDERSTANDING THAT IT IS TAKEN FROM A LIVE PROGRAMME 
+AS IT WAS BROADCAST. THE NATURE OF LIVE BROADCASTING MEANS THAT NEITHER THE BBC NOR 
+THE PARTICIPANTS IN THE PROGRAMME CAN GUARANTEE THE ACCURACY OF THE INFORMATION 
+HERE . 
+ 
+bbc.co.uk/reithlectures  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
